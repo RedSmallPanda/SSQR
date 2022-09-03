@@ -16,12 +16,6 @@ python run.py \
     --dataset=$the_code_search_dataset$ \
 ```
 
-### Dataset
-
-The dataset can be found at
-
-https://drive.google.com/file/d/1CdeKJY2vY1P0jzjoDk1hjJ2ZLDhq5hWg/view?usp=sharing
-
 
 
 # Code Search
