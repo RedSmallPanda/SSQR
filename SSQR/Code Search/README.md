@@ -11,7 +11,7 @@ To reformulate the queries in code search dataset
 ```shell
 cd code
 python run.py \
-		--model=$model_checkpoint_dir$
+    --model=$model_checkpoint_dir$ \
     --output=$your_output_dir$ \
     --dataset=$the_code_search_dataset$ \
 ```
