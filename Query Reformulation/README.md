@@ -55,8 +55,6 @@ Data statistics of the dataset are shown in the below table:
 
 ## Finetune and Use CodeBERT as Search Engine
 
-We also provide a pipeline that fine-tunes [CodeBERT](https://arxiv.org/pdf/2002.08155.pdf) on this task. 
-
 ### Dependency
 
 - python 3.6 or 3.7
@@ -123,7 +121,7 @@ python ../evaluator/evaluator.py -a ../dataset/test.jsonl  -p saved_models/predi
 
 ## Results
 
-The results on the test set for code search performance and human evaluation of different query reformulation approaches are shown as below:
+The results on the test set for code search performance on CodeBERT and human evaluation of different query reformulation approaches are shown as below:
 
 | Method   |    MRR     | Naturalness | Informativeness |
 | -------- | :--------: | ----------- | --------------- |
