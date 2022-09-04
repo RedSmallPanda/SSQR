@@ -1,7 +1,7 @@
 # Pretraining T5
 Continually pretraining T5 on the code search dataset.
 
-Pretrained models from [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) are made available from [Huggingface](https://huggingface.co/transformers/model_doc/t5.html). This is the code for continuing the pretraining phase of T5 on custom dataset. This code follows the same unsupervised pretraining objective followed by the original paper. Details of the T5 style pretraining can be found in the [paper](https://arxiv.org/abs/1910.10683).
+Pretrained models from [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) are made available from [Huggingface](https://huggingface.co/transformers/model_doc/t5.html). This is the code for continually pretraining T5 on the code search dataset. This code follows the same unsupervised pretraining objective followed by the original paper. Details of the T5 style pretraining can be found in the [paper](https://arxiv.org/abs/1910.10683).
 
 ### Dataset
 
