@@ -14,12 +14,12 @@ We propose SSQR, a self-supervised query reformulation method that does not rely
 
 ### Results
 
-We pre-train, fine-tune, and test all models using two large code search corpora, namely, CODEnn and CodeXGLUE. We pre-train T5 using code comments from the large-scale CODEnn dataset and perform code search experiment on the code search dataset of CodeXGLUE. Our evaluation shows that SSQR significantly outperforms unsupervised baselines and gains competitive performance over supervised methods.
+We pre-train T5 using code comments from the large-scale CODEnn dataset and perform code search experiment on the code search dataset of CodeXGLUE. Our evaluation shows that SSQR significantly outperforms unsupervised baselines and gains competitive performance over supervised methods.
 
 - Performace on Code Search
 
-<img src="CodeSearchResult.png" width="70%" />
+<img src="CodeSearchResult.png" width="60%" />
 
 * Qualitative Evaluation
 
-<img src="HumanEvaluationResult.png" width="70%" />
+<img src="HumanEvaluationResult.png" width="60%" />
