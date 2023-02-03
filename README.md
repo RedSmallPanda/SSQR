@@ -18,8 +18,8 @@ We pre-train T5 using code comments from the large-scale CODEnn dataset and perf
 
 - Performace on Code Search
 
-<img src="CodeSearchResult.png" width="60%" />
+<img src="CodeSearchResult.png" width="50%" />
 
 * Qualitative Evaluation
 
-<img src="HumanEvaluationResult.png" width="60%" />
+<img src="HumanEvaluationResult.png" width="50%" />
